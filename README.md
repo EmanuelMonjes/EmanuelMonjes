@@ -19,9 +19,6 @@ Welcome to my GitHub! I'm currently in the fourth year of my **Systems Engineeri
 
 ### 🖥️ Featured Projects
 - **e-commerce**  
-  Short description of the project and technologies used.
-- **[Project Name 2]**  
-  Short description of the project and technologies used.
 
 ### 🌱 Currently Learning
 - Full Stack Web Development
