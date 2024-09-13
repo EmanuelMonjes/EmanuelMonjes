@@ -1,16 +1,37 @@
-👋 Hi, I’m @EmanuelMonjes
+# 👋 Hi, I'm [Your Name]
 
-👀 I’m interested in software development, algorithms, and web technologies.
+### Systems Engineering Student - 4th Year
 
-🌱 I’m currently learning Java 22, web development (HTML, CSS, JavaScript), and database management.
+---
 
-💞️ I’m looking to collaborate on open-source projects or student-driven initiatives related to backend development or full-stack web applications.
+Welcome to my GitHub! I'm currently in the fourth year of my **Systems Engineering** degree. I'm passionate about programming, emerging technologies, and creating innovative solutions to real-world problems.
 
-📫 How to reach me [emamonjes26@gmail.com].
+### 🚀 Skills and Technologies
+- **Languages:** Java, Python
+- **Web Development:** HTML, CSS, JavaScript
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Visual Studio Code
+- **Methodologies:** Agile, Scrum
 
-😄 Pronouns: He/Him.
+### 🎓 Education
+- **Systems Engineering**  
+  Universidad Tecnologica nacional frvm 
 
-⚡ Fun fact: I'm passionate about solving problems with code, and I enjoy learning new programming languages and technologies.
+### 🖥️ Featured Projects
+- **[Project Name 1]**  
+  Short description of the project and technologies used.
+- **[Project Name 2]**  
+  Short description of the project and technologies used.
+
+### 🌱 Currently Learning
+- Full Stack Web Development
+- Software testing and DevOps
+
+### 📫 Contact
+- LinkedIn: [Your LinkedIn]
+- Email: [emamonjes26@gmail.com])
+
+---
 
 <!---
 EmanuelMonjes/EmanuelMonjes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
