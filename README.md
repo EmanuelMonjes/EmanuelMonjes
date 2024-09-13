@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm currently in the fourth year of my **Systems Engineeri
   Universidad Tecnologica nacional frvm 
 
 ### 🖥️ Featured Projects
-- **[Project Name 1]**  
+- **e-commerce**  
   Short description of the project and technologies used.
 - **[Project Name 2]**  
   Short description of the project and technologies used.
